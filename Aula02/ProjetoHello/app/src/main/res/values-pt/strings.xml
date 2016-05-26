@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoHello</string>
+    <string name="helloworld">Ola Mundo</string>
+    <string name="hello">Ola</string>
+    <string name="name">Nome:</string>
+</resources>
