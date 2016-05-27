@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Teste</string>
+    <string name="activity_main">Main</string>
+    <string name="activity_config">Configuracao</string>
+</resources>
